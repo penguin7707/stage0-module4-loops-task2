@@ -12,6 +12,5 @@ public class FactorialNumbers {
             result=1;
             a++;
         }
-
     }
 }
