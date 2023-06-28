@@ -7,6 +7,5 @@ public class EvenNumbersPrinter {
             if (first==0 || first%2==0) System.out.println(first);
             first++;
         }
-
     }
 }
